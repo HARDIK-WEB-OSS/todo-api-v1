@@ -137,4 +137,4 @@ todo-api-v1/
 
 ---
 
-Built by Hardik | [LinkedIn](https://www.linkedin.com/in/hardik-agarwal-578238333) | [GitHub]([your-github](https://github.com/HARDIK-WEB-OSS))
+Built by Hardik | [LinkedIn](https://www.linkedin.com/in/hardik-agarwal-578238333) | [GitHub](https://github.com/HARDIK-WEB-OSS)
