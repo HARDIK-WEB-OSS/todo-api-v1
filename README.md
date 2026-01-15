@@ -257,12 +257,6 @@ This API is deployed on **Render** using the free tier.
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👤 Author
 
 **Hardik Agarwal**
@@ -270,7 +264,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🌐 Portfolio: [Coming Soon]
 - 💼 LinkedIn: [linkedin.com/in/hardik-agarwal](https://www.linkedin.com/in/hardik-agarwal)
 - 🐙 GitHub: [@HARDIK-WEB-OSS](https://github.com/HARDIK-WEB-OSS)
-- 📧 Email:agarwalhardik549@gmail.com
+- 📧 Email: agarwalhardik549@gmail.com
 
 ---
 
