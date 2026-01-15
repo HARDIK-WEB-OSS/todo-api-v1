@@ -3,7 +3,6 @@
 [![Deploy Status](https://img.shields.io/badge/deploy-live-brightgreen)](https://todo-api-v1-pugr.onrender.com)
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115.0-009688.svg)](https://fastapi.tiangolo.com)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A production-ready REST API for managing todos, built with FastAPI and deployed on the cloud.
 
@@ -271,7 +270,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🌐 Portfolio: [Coming Soon]
 - 💼 LinkedIn: [linkedin.com/in/hardik-agarwal](https://www.linkedin.com/in/hardik-agarwal)
 - 🐙 GitHub: [@HARDIK-WEB-OSS](https://github.com/HARDIK-WEB-OSS)
-- 📧 Email: your.email@example.com
+- 📧 Email:agarwalhardik549@gmail.com
 
 ---
 
